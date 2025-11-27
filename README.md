@@ -35,7 +35,7 @@ Clone the repository for use
 ## Demonstration
 
 
-![Screenshot 1](DecepGuard-Information-Security/media/pic1.png)
+![Screenshot 1](media/pic1.png)
 
 
 ![Screenshot 2](DecepGuard-Information-Security/media/pic2.png)
