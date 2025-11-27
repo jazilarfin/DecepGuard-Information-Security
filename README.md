@@ -32,10 +32,10 @@ Clone the repository for use
 
 ---
 
-##Demostration
+## Demonstration
 
 
-![Screenshot 1](media/Screenshot 2025-11-27 141339.png)
+![Screenshot 1](DecepGuard-Information-Security/media/pic1.png)
 
 
-![Screenshot 1](DecepGuard-Information-Security/media/Screenshot 2025-11-27 142147.png)
+![Screenshot 2](DecepGuard-Information-Security/media/pic2.png)
