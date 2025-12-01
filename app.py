@@ -53,6 +53,10 @@ def home():
         email_text = request.form["email"]  # <-- capture textarea text
         result, score = classify_email(email_text)
 
+        if result=="Legit":
+            score=1.00-score
+
+
     # Pass email_text to template
     return render_template("index.html", result=result, score=score, email_text=email_text)
 
