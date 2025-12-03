@@ -34,8 +34,7 @@ Clone the repository for use
 
 ## Demonstration
 
+<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/5ced7f76-fff3-4db1-b4e6-fa5ac906127b" />
 
-![Screenshot 1](media/pic1.png)
 
-
-![Screenshot 2](media/pic2.png)
+<img width="984" height="764" alt="image" src="https://github.com/user-attachments/assets/746c0f21-aa6a-4308-adf6-10121c94c181" />
